@@ -21,6 +21,8 @@ Scan all transactions and extract input data starting at the latest block number
 python3 Ethereham.py -l -t
 ```
 
+![Ethereham Demo](EtherehamDemo.gif)
+
 ### Options
 ```
 -b, --startingblock         The starting block number to begin scanning transactions from
