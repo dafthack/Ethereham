@@ -1,5 +1,5 @@
 # Ethereham
-A script for tracking and decoding input data messages sent to and from a particular Ethereum address or from every transaction in a block.
+Like a Ham radio for Ethereum, tune in to a specific address to see encoded messages in input data. This is a script for tracking and decoding input data messages sent to and from a particular Ethereum address or from every transaction in a block.
 
 
 ## Quick Start
